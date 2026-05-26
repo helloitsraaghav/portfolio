@@ -185,24 +185,24 @@ export const projects: ResearchProject[] = [
     },
     milestones: [
       {
-        date: "TBD",
+        date: "Sept 2024",
         title: "Industry Analysis",
         description: "Analyzed semiconductor industry cycle and structural trends in AI infrastructure demand.",
       },
       {
-        date: "TBD",
+        date: "Oct 2024",
         title: "Revenue Modeling",
         description: "Modeled Broadcom's AI networking revenue opportunity and VMware synergy capture timeline.",
       },
       {
-        date: "TBD",
+        date: "Oct 2024",
         title: "Peer Comparison",
         description: "Compared to peers: NVDA, AMD, QCOM across valuation, growth, and moat dimensions.",
       },
       {
-        date: "TBD",
+        date: "Dec 2024",
         title: "Pitch Presented",
-        description: "Presented to investment committee / class. [Add venue.]",
+        description: "Presented to a MD at Neuberger Berman",
       },
     ],
     metrics: [
