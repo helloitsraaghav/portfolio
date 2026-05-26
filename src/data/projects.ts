@@ -206,10 +206,8 @@ export const projects: ResearchProject[] = [
       },
     ],
     metrics: [
-      { value: "TBD", label: "Price Target", description: "Add your price target and initiation price" },
-      { value: "TBD%", label: "Upside Potential", description: "Add your upside/downside to price target" },
-      { value: "TBD%", label: "AI Revenue Exposure", description: "Add Broadcom's AI/custom silicon % of revenue" },
-      { value: "TBD%", label: "FCF Yield", description: "Add free cash flow yield at your target price" },
+      { value: "35202", label: "Price Target", description: "11/24 Price: 183.64" },
+      { value: "91.69%", label: "Upside Potential", description: "Add your upside/downside to price target" },
     ],
     downloads: [
       { title: "Broadcom Pitch Deck", file: "/pdfs/broadcom-pitch-deck.pdf", size: "TBD", type: "pdf" },
