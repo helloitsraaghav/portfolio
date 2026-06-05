@@ -31,7 +31,7 @@ export function About() {
         >
           <p className="font-mono text-xs uppercase tracking-widest text-[#00D9FF] mb-2">About</p>
           <h1 className="font-mono text-3xl md:text-5xl font-bold dark:text-[#F8F9FA] text-gray-900 mb-6">
-            Raaghupathi
+            Raaghav Gupta
           </h1>
         </motion.div>
 

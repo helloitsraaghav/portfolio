@@ -206,8 +206,8 @@ export const projects: ResearchProject[] = [
       },
     ],
     metrics: [
-      { value: "35202", label: "Price Target", description: "11/24 Price: 183.64" },
-      { value: "91.69%", label: "Upside Potential", description: "Add your upside/downside to price target" },
+      { value: "$352.02", label: "Price Target", description: "11/24 Price: 183.64" },
+      { value: "91.69%", label: "Upside Potential", description: "Calculated against 11/24 price" },
     ],
     downloads: [
       { title: "Broadcom Pitch Deck", file: "/pdfs/broadcom-pitch-deck.pdf", size: "TBD", type: "pdf" },
